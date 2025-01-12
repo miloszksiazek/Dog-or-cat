@@ -1,4 +1,4 @@
-# Is it more a cat or a dog? 
+# Dog or Cat Classifier 🐶🐱
 This project is a machine learning application designed to classify images as either a dog or a cat. Using advanced deep learning techniques, the model analyzes image data and predicts the category with high accuracy.
 
 Features
