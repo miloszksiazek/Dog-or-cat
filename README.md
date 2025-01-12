@@ -19,3 +19,16 @@ How It Works
 	2.	Model Training: Train the CNN on labeled images using supervised learning.
 	3.	Evaluation: Assess model accuracy using test datasets.
 	4.	Prediction: Use the trained model to predict whether an image is a dog or a cat.
+Usage
+	1.	Clone the repository
+ 	2.	Open the DogOrCat.ipynb file in Jupyter Notebook.
+	3.	Follow the steps in the notebook to train and evaluate the model.
+
+Future Enhancements
+	•	Support for more animal classes.
+	•	Deployment as a web app using Flask or Streamlit.
+	•	Integration with cloud services for real-time predictions.
+
+Acknowledgments
+	•	Inspiration for this project came from classic Kaggle datasets like Dogs vs. Cats.
+	•	Special thanks to open-source communities for providing invaluable resources
